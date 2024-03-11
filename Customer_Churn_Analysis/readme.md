@@ -49,4 +49,5 @@
    * One big table containing 29 columns
    *  One row per customer
 
-Snapshot of the database at a specific moment in time![image](https://github.com/jatin8570/Customer_Churn_Power-BI/assets/137681276/3b56dbf1-4492-4470-9828-42fb17913e2b)
+Snapshot of the database at a specific moment in time![image](https://github.com/jatin8570/Power-BI_Projects/assets/137681276/cc675a31-2ba2-4afa-9c52-0fb17ddccc28)
+
