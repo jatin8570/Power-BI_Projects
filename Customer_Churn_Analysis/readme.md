@@ -1,10 +1,10 @@
 # Customer_Churn_Power-BI
 
-#### Here's the Insights 
-![Insights](https://github.com/jatin8570/Power-BI_Projects/blob/main/Customer_Churn_Analysis/Insights.png?raw=true)
-
 #### Here's the Overview of Visualization
-![Overview](https://github.com/jatin8570/Customer_Churn_Power-BI/assets/137681276/600080b3-3d70-44bd-b54c-ba242d9b2ae0)
+![Overview](https://github.com/jatin8570/Power-BI_Projects/blob/main/Customer_Churn_Analysis/Insights.png?raw=true)
+
+#### Here's the Insights
+![Insights](https://github.com/jatin8570/Power-BI_Projects/blob/main/Customer_Churn_Analysis/Overview.png?raw=true)
 
 
 
