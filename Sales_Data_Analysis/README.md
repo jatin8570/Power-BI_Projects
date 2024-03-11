@@ -1,7 +1,7 @@
 ## Sales_Data_Analysis
 
 ### Snapshot of Dashboard
-![Alt text](https://github.com/jatin8570/Sales_Data_Analysis/blob/main/Dashboard.png?raw=true)
+![Alt text](https://github.com/jatin8570/Power-BI_Projects/blob/main/Sales_Data_Analysis/Dashboard.png?raw=true)
 
 ### Purpose
 Analyze sales data to identify trends, top-selling products, and revenue metrices for business decision-making
