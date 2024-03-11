@@ -1,7 +1,7 @@
 # Customer_Churn_Power-BI
 
 #### Here's the Insights 
-![Insights](https://github.com/jatin8570/Customer_Churn_Power-BI/assets/137681276/8a48182e-5d75-45cc-b1bb-32d9931d513c)
+![Insights]("C:\Users\DELL\Desktop\Projects\Power BI Projects\case-study-analyzing-customer-churn\Insights.png")
 
 #### Here's the Overview of Visualization
 ![Overview](https://github.com/jatin8570/Customer_Churn_Power-BI/assets/137681276/600080b3-3d70-44bd-b54c-ba242d9b2ae0)
